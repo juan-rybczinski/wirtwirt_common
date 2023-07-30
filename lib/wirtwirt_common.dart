@@ -9,6 +9,7 @@ export 'src/component/primary_button.dart';
 export 'src/component/alert_dialogs.dart';
 export 'src/component/responsive_scrollable_card.dart';
 export 'src/component/custom_text_button.dart';
+export 'src/component/empty_placeholder_widget.dart';
 
 export 'src/form/string_validator.dart';
 

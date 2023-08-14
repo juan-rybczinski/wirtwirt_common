@@ -15,3 +15,4 @@ export 'src/form/string_validator.dart';
 export 'src/layout/responsive_center.dart';
 export 'src/layout/responsive_two_column_layout.dart';
 export 'src/util/go_router_refresh_stream.dart';
+export 'src/util/notifier_mounted.dart';
